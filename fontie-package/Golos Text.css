@@ -4,11 +4,11 @@
     font-family:'Golos Text';
     src: url('Golos Text Regular.eot');
 	src: url('Golos Text Regular.eot?#iefix') format('embedded-opentype'),
-		url('Golos Text Regular.woff2') format('woff2'),
-		url('Golos Text Regular.woff') format('woff'),
-		url('Golos Text Regular.ttf') format('truetype'),
-		url('Golos Text Regular.otf') format('opentype'),
-		url('Golos Text Regular.svg#Golos Text Regular') format('svg');
+		url('https://raw.githubusercontent.com/RoninReilly/fonts/ca1e20c86c78109761c24c0c3f42b1455f29b1da/fontie-package/Golos Text Regular.woff2') format('woff2'),
+		url('https://raw.githubusercontent.com/RoninReilly/fonts/ca1e20c86c78109761c24c0c3f42b1455f29b1da/fontie-package/Golos Text Regular.woff') format('woff'),
+		url('https://raw.githubusercontent.com/RoninReilly/fonts/ca1e20c86c78109761c24c0c3f42b1455f29b1da/fontie-package/Golos Text Regular.ttf') format('truetype'),
+		url('https://raw.githubusercontent.com/RoninReilly/fonts/ca1e20c86c78109761c24c0c3f42b1455f29b1da/fontie-package/Golos Text Regular.otf') format('opentype'),
+		url('https://raw.githubusercontent.com/RoninReilly/fonts/ca1e20c86c78109761c24c0c3f42b1455f29b1da/fontie-package/Golos Text Regular.svg#Golos Text Regular') format('svg');
     font-weight: 400;
     font-style: normal;
     font-stretch: normal;
@@ -18,12 +18,12 @@
 @font-face {
     font-family:'Golos Text';
     src: url('Golos Text Bold.eot');
-	src: url('Golos Text Bold.eot?#iefix') format('embedded-opentype'),
-		url('Golos Text Bold.woff2') format('woff2'),
-		url('Golos Text Bold.woff') format('woff'),
-		url('Golos Text Bold.ttf') format('truetype'),
-		url('Golos Text Bold.otf') format('opentype'),
-		url('Golos Text Bold.svg#Golos Text Bold') format('svg');
+	src: url('https://raw.githubusercontent.com/RoninReilly/fonts/ca1e20c86c78109761c24c0c3f42b1455f29b1da/fontie-package/Golos Text Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://raw.githubusercontent.com/RoninReilly/fonts/ca1e20c86c78109761c24c0c3f42b1455f29b1da/fontie-package/Golos Text Bold.woff2') format('woff2'),
+		url('https://raw.githubusercontent.com/RoninReilly/fonts/ca1e20c86c78109761c24c0c3f42b1455f29b1da/fontie-package/Golos Text Bold.woff') format('woff'),
+		url('https://raw.githubusercontent.com/RoninReilly/fonts/ca1e20c86c78109761c24c0c3f42b1455f29b1da/fontie-package/Golos Text Bold.ttf') format('truetype'),
+		url('https://raw.githubusercontent.com/RoninReilly/fonts/ca1e20c86c78109761c24c0c3f42b1455f29b1da/fontie-package/Golos Text Bold.otf') format('opentype'),
+		url('https://raw.githubusercontent.com/RoninReilly/fonts/ca1e20c86c78109761c24c0c3f42b1455f29b1da/fontie-package/Golos Text Bold.svg#Golos Text Bold') format('svg');
     font-weight: 700;
     font-style: normal;
     font-stretch: normal;
