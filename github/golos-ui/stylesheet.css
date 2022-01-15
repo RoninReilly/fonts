@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'Golos UI';
-    src: url('./subset-GolosUI-Bold.woff2') format('woff2'),
-        url('./subset-GolosUI-Bold.woff') format('woff');
+    src: url('https://github.com/RoninReilly/fonts/raw/main/github/golos-ui/subset-GolosUI-Bold.woff') format('woff2'),
+        url('https://github.com/RoninReilly/fonts/raw/main/github/golos-ui/subset-GolosUI-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Golos UI';
-    src: url('./subset-GolosUI-Regular.woff2') format('woff2'),
-        url('./subset-GolosUI-Regular.woff') format('woff');
+    src: url('https://github.com/RoninReilly/fonts/raw/main/github/golos-ui/subset-GolosUI-Regular.woff2') format('woff2'),
+        url('https://github.com/RoninReilly/fonts/raw/main/github/golos-ui/subset-GolosUI-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
