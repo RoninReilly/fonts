@@ -1,0 +1,153 @@
+@font-face {
+    font-family: 'Articulat CF';
+    src: url('ArticulatCF-Thin.woff2') format('woff2'),
+        url('ArticulatCF-Thin.woff') format('woff'),
+        url('ArticulatCF-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Articulat CF Thin Oblique';
+    src: url('ArticulatCF-ThinOblique.woff2') format('woff2'),
+        url('ArticulatCF-ThinOblique.woff') format('woff'),
+        url('ArticulatCF-ThinOblique.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Articulat CF Normal Oblique';
+    src: url('ArticulatCF-NormalOblique.woff2') format('woff2'),
+        url('ArticulatCF-NormalOblique.woff') format('woff'),
+        url('ArticulatCF-NormalOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Articulat CF Normal';
+    src: url('ArticulatCF-Normal.woff2') format('woff2'),
+        url('ArticulatCF-Normal.woff') format('woff'),
+        url('ArticulatCF-Normal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Articulat CF Medium Oblique';
+    src: url('ArticulatCF-MediumOblique.woff2') format('woff2'),
+        url('ArticulatCF-MediumOblique.woff') format('woff'),
+        url('ArticulatCF-MediumOblique.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Articulat CF';
+    src: url('ArticulatCF-Medium.woff2') format('woff2'),
+        url('ArticulatCF-Medium.woff') format('woff'),
+        url('ArticulatCF-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Articulat CF Light Oblique';
+    src: url('ArticulatCF-LightOblique.woff2') format('woff2'),
+        url('ArticulatCF-LightOblique.woff') format('woff'),
+        url('ArticulatCF-LightOblique.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Articulat CF';
+    src: url('ArticulatCF-Light.woff2') format('woff2'),
+        url('ArticulatCF-Light.woff') format('woff'),
+        url('ArticulatCF-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Articulat CF Heavy Oblique';
+    src: url('ArticulatCF-HeavyOblique.woff2') format('woff2'),
+        url('ArticulatCF-HeavyOblique.woff') format('woff'),
+        url('ArticulatCF-HeavyOblique.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Articulat CF Extra Bold Oblique';
+    src: url('ArticulatCF-ExtraBoldOblique.woff2') format('woff2'),
+        url('ArticulatCF-ExtraBoldOblique.woff') format('woff'),
+        url('ArticulatCF-ExtraBoldOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Articulat CF';
+    src: url('ArticulatCF-Heavy.woff2') format('woff2'),
+        url('ArticulatCF-Heavy.woff') format('woff'),
+        url('ArticulatCF-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Articulat CF Extra';
+    src: url('ArticulatCF-ExtraLight.woff2') format('woff2'),
+        url('ArticulatCF-ExtraLight.woff') format('woff'),
+        url('ArticulatCF-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Articulat CF Extra';
+    src: url('ArticulatCF-ExtraBold.woff2') format('woff2'),
+        url('ArticulatCF-ExtraBold.woff') format('woff'),
+        url('ArticulatCF-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Articulat CF Demi Bold Oblique';
+    src: url('ArticulatCF-DemiBoldOblique.woff2') format('woff2'),
+        url('ArticulatCF-DemiBoldOblique.woff') format('woff'),
+        url('ArticulatCF-DemiBoldOblique.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Articulat CF Demi';
+    src: url('ArticulatCF-DemiBold.woff2') format('woff2'),
+        url('ArticulatCF-DemiBold.woff') format('woff'),
+        url('ArticulatCF-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Articulat CF Bold Oblique';
+    src: url('ArticulatCF-BoldOblique.woff2') format('woff2'),
+        url('ArticulatCF-BoldOblique.woff') format('woff'),
+        url('ArticulatCF-BoldOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Articulat CF';
+    src: url('ArticulatCF-Bold.woff2') format('woff2'),
+        url('ArticulatCF-Bold.woff') format('woff'),
+        url('ArticulatCF-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
